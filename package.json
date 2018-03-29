@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pamelasouza/allways.git"
+    "url": "git+https://cs-pamela-souza@bitbucket.org/suporte_concrete/all-ways-dev.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pamelasouza/allways/issues"
+    "url": "https://cs-pamela-souza@bitbucket.org/suporte_concrete/all-ways-dev/issues"
   },
-  "homepage": "https://github.com/pamelasouza/allways#readme",
+  "homepage": "https://cs-pamela-souza@bitbucket.org/suporte_concrete/all-ways-dev",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.0.12"
